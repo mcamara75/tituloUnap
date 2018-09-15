@@ -1,0 +1,17 @@
+Identificar los factores críticos que influyen en las buenas prácticas del área bajo estudio
+1.	Revisión de Antecedentes históricos de la situación bajo estudio (revisión de proyectos exitosos y los fracasados)
+2.	Consulta a Expertos y Usuarios
+3.	Análisis de la información 
+4.	Determinación de los Factores Críticos
+
+Desarrollar los elementos centrales del manual de buenas prácticas
+1.	Establecimiento de la Estructura del Manual de Buenas Prácticas
+2.	Validación de la Estructura
+3.	Elaboración de los contenidos de las buenas prácticas
+4.	Validación del Contenido
+
+Proponer un plan de implementación del manual de buenas prácticas
+1.	Desarrollo del plan de acción (estructura del plan de acción)
+a.	(actividad, responsable, recursos $, fecha inicio, fecha término, indicador de gestión)
+2.	Elaboración del cronograma de implementación (Carta Gantt)
+
