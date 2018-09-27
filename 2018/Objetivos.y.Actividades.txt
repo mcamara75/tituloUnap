@@ -15,3 +15,4 @@ Proponer un plan de implementación del manual de buenas prácticas
 a.	(actividad, responsable, recursos $, fecha inicio, fecha término, indicador de gestión)
 2.	Elaboración del cronograma de implementación (Carta Gantt)
 
+prmunoz@unap.cl
