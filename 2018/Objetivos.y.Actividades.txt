@@ -16,3 +16,9 @@ a.	(actividad, responsable, recursos $, fecha inicio, fecha término, indicador 
 2.	Elaboración del cronograma de implementación (Carta Gantt)
 
 prmunoz@unap.cl
+
+
+Redactar con la siguientes estructura:
+¿Que Hago?
+¿Cómo lo hago?
+A qué llegó
